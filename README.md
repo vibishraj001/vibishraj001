@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Vibishraj (aka Vibi)
 🎓 studing CSE Student at Gnanamani College of Technology  
-💻 Interested in AI/ML, Web Development (MERN), Hacking & Stock Market   
-🚀 Goal: Become a self-made millionaire  
+💻 Interested in AI/ML, Web Development (MERN)
 📫 Reach me at: [vibishraj001@gmail.com] 
 
 “Great things never come from comfort zones. Step out, level up!”
