@@ -1,28 +1,34 @@
 <h1 align="center">Hi 👋, I'm Vibish Raj</h1>
+
+<p align="center">
+  <img src="https://github.com/YOUR_GITHUB_USERNAME.png" width="150" style="border-radius:50%" />
+</p>
+
 <h3 align="center">Competitive Programmer | C++ | Problem Solver</h3>
 
 ---
 
 ## 🚀 About Me
-- 🎯 Enthusiastic Competitive Programmer
-- 💻 Solving problems on Codeforces & strengthening DSA
-- 📚 Learning and improving problem-solving skills daily
-- 🌱 Currently practicing more problems & challenging myself
+- 🎯 Focused on Competitive Programming
+- 💻 Active on Codeforces
+- 📚 Improving DSA daily
+- 🌱 Learning Advanced Problem Solving
 
 ---
 
 ## 🏆 Competitive Programming
 
-- 🔥 Codeforces: https://codeforces.com/profile/vibishraj001
-
-![Codeforces Stats](https://cf-stats.vercel.app/api?username=vibishraj001&theme=dark)
+<p align="center">
+  <a href="https://codeforces.com/profile/vibishraj001">
+    <img src="https://cf-stats.vercel.app/api?username=vibishraj001&theme=dark" />
+  </a>
+</p>
 
 ---
 
 ## 💻 Tech Stack
-
 - C++
-- STL (Standard Template Library)
+- STL
 - Git & GitHub
 - VS Code
 
@@ -30,18 +36,19 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 📌 Goals
-
-- 🚀 Reach higher Codeforces rating
-- 🏆 Excel in competitive programming and placements
-- 📚 Master Data Structures & Algorithms
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ From [vibishraj001](https://github.com/YOUR_GITHUB_USERNAME)
+## 🎯 Goals
+- 🚀 Increase Codeforces Rating
+- 🏆 Crack Top Placements
+- 📚 Master DSA
+
+---
+
+⭐ From [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
