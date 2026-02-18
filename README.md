@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="www.linkedin.com/in/vibishraj" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
@@ -37,7 +37,8 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm vibish</h1>
+<h1 align="center">Hi 👋, I'm Vibish</h1>
+<h3 align="center">A passionate Software developer from India</h3>
 
 ###
 
@@ -103,7 +104,7 @@
 
 
 
-<h3 align="center">A passionate Software developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibishraj001&label=Profile%20views&color=0e75b6&style=flat" alt="vibishraj001" /> </p>
 
