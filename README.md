@@ -37,7 +37,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hi 👋, I'm vibish</h1>
 
 ###
 
@@ -101,7 +101,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm vibish</h1>
+
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibishraj001&label=Profile%20views&color=0e75b6&style=flat" alt="vibishraj001" /> </p>
