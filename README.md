@@ -32,8 +32,8 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibishraj001" alt="vibishraj001" /></a> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibishraj001&label=Profile%20views&color=0e75b6&style=flat" alt="vibishraj001" /> </p>
+
 </div>
 
 ###
@@ -107,7 +107,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibishraj001&label=Profile%20views&color=0e75b6&style=flat" alt="vibishraj001" /> </p>
 
 
 
