@@ -42,6 +42,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
+<p>Motivated college student with experience in Web Development. Passionate about Entrepreneur and eager to learn more about software development. Seeking opportunities to apply my skills and knowledge in Web Development. I am a quick learner and enjoy working in a team environment. I am excited to take on new challenges and grow both personally and professionally.</p>
 
 ###
 
