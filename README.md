@@ -48,6 +48,7 @@
 
 ###
 
+<!--
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
@@ -69,6 +70,7 @@
 </div>
 
 ###
+-->
 
 <h3 align="left">🔥   My Stats :</h3>
 
